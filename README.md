@@ -9,4 +9,4 @@
 
 #### Connect me via doangiabao276@gmail.com
 
-#### Copyright &#11; 2022 nobi
+#### Copyright &#169; 2022 nobi
