@@ -10,7 +10,7 @@
 
 ### Screen-shoots
 
-![Build process with Ant](https://github.com/NobitaCool/math-util-ant/tree/main/screenshot/build-process-with-ant)
+![Build process with Ant](https://github.com/NobitaCool/math-util-ant/blob/main/screenshot/build-process-with-ant.png)
 
 #### Connect me via doangiabao276@gmail.com
 
